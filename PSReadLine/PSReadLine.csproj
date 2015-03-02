@@ -98,10 +98,10 @@
     <None Include="PSReadLine.format.ps1xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="PSReadLine.psd1">
+    <None Include="PSReadLine-vim.psd1">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="PSReadLine.psm1">
+    <None Include="PSReadLine-vim.psm1">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="SamplePSReadlineProfile.ps1">
